@@ -21,9 +21,9 @@
 
 #ifdef USE_TOON
 #include <TooN/TooN.h>
-#include <libv/lma/lm/container/tag.hpp>
+#include <lma/lm/container/tag.hpp>
 #endif
-#include <libv/lma/ttt/traits/naming.hpp>
+#include <lma/ttt/traits/naming.hpp>
 
 namespace adct
 {
@@ -204,8 +204,8 @@ namespace adct
   template<class A, class B> bool operator<(const Expr<A>& a, const Expr<B>& b) { return a.cast().value() < b.cast().value() ; }
 }
 
-#include <libv/lma/ttt/traits/naming.hpp>
-#include <libv/lma/string/string_utiliy.hpp>
+#include <lma/ttt/traits/naming.hpp>
+#include <lma/string/string_utiliy.hpp>
 
 namespace ttt
 {
