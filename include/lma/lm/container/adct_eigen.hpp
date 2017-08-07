@@ -15,7 +15,7 @@
 #ifndef __LMA_OPTIMISATION2_CONTAINER_ADCT_EIGEN_HPP__
 #define __LMA_OPTIMISATION2_CONTAINER_ADCT_EIGEN_HPP__
 
-#include <libv/lma/numeric/ad/ct/adct.hpp>
+#include <lma/numeric/ad/ct/adct.hpp>
 
 namespace lma
 {

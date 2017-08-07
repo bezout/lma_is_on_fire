@@ -17,7 +17,7 @@
 
 #include <cmath>
 #include "../function/function.hpp"
-#include <libv/lma/ttt/traits/wrap.hpp>
+#include <lma/ttt/traits/wrap.hpp>
 #include <boost/mpl/for_each.hpp>
 #include "../ba/nan_error.hpp"
 #include "../ba/mat.hpp"

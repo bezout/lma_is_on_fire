@@ -3,8 +3,8 @@
 #include <boost/fusion/include/vector.hpp>
 #include <boost/fusion/include/find.hpp>
 #include <boost/mpl/vector.hpp>
-#include <libv/lma/ttt/mpl/cat.hpp>
-#include <libv/lma/lma.hpp>
+#include <lma/ttt/mpl/cat.hpp>
+#include <lma/lma.hpp>
 #include "nodes.hpp"
 
 namespace lma

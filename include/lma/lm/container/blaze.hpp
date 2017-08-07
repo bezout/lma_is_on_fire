@@ -17,12 +17,12 @@
 
 #include "tag.hpp"
 #include <blaze/Blaze.h>
-#include <libv/lma/ttt/traits/naming.hpp>
-#include <libv/lma/ttt/traits/wrap.hpp>
-#include <libv/lma/string/string_utiliy.hpp>
+#include <lma/ttt/traits/naming.hpp>
+#include <lma/ttt/traits/wrap.hpp>
+#include <lma/string/string_utiliy.hpp>
 #include <boost/fusion/include/pair.hpp>
 #include "container.hpp"
-#include <libv/lma/ttt/traits/unroll1.hpp>
+#include <lma/ttt/traits/unroll1.hpp>
 #include <boost/mpl/if.hpp>
 
 namespace std
