@@ -12,8 +12,8 @@
 
 */
 
-#ifndef __LIBV_LMA_TTT_TRAITS_INT_HPP__
-#define __LIBV_LMA_TTT_TRAITS_INT_HPP__
+#ifndef __LMA_TTT_TRAITS_INT_HPP__
+#define __LMA_TTT_TRAITS_INT_HPP__
 
 #include <cstddef>
 

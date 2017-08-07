@@ -12,8 +12,8 @@
 
 */
 
-#ifndef __LIBV_LMA_OPT2_BA_UTILS_HPP__
-#define __LIBV_LMA_OPT2_BA_UTILS_HPP__
+#ifndef __LMA_OPT2_BA_UTILS_HPP__
+#define __LMA_OPT2_BA_UTILS_HPP__
 
 #include <lma/global.hpp>
 #include <lma/ttt/fusion/at.hpp>
