@@ -12,8 +12,8 @@
 
 */
 
-#ifndef __LIBV_LMA_NUMERIC_AD_CT_VERBOSE_HPP__
-#define __LIBV_LMA_NUMERIC_AD_CT_VERBOSE_HPP__
+#ifndef __LMA_NUMERIC_AD_CT_VERBOSE_HPP__
+#define __LMA_NUMERIC_AD_CT_VERBOSE_HPP__
 
 #include "adct.hpp"
 #include <iostream>

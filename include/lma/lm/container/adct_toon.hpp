@@ -17,7 +17,7 @@
 
 #ifdef USE_TOON
 
-#include <libv/lma/numeric/ad/ct/adct.hpp>
+#include <lma/numeric/ad/ct/adct.hpp>
 
 namespace lma
 {

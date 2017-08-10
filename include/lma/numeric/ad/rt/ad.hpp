@@ -18,7 +18,7 @@
 #include <iostream>
 #include <Eigen/Dense>
 #include <TooN/TooN.h>
-#include <libv/lma/ttt/traits/naming.hpp>
+#include <lma/ttt/traits/naming.hpp>
 #include <cmath>
 
 namespace AdRt

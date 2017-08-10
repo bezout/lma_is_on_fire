@@ -13,8 +13,8 @@
 */
 
 
-#ifndef __LIBV_LMA_LMA_HPP__
-#define __LIBV_LMA_LMA_HPP__
+#ifndef __LMA_LMA_HPP__
+#define __LMA_LMA_HPP__
 
 #include <lma/lm/solver/solver2.hpp>
 #include <lma/lm/solver/verbose.hpp>

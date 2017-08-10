@@ -15,6 +15,6 @@
 #ifndef __LMA_DERIVATIVE_TAG_HPP__
 #define __LMA_DERIVATIVE_TAG_HPP__
 
-#include <libv/lma/lm/function/derivative/default_derivative_tag.hpp>
+#include <lma/lm/function/derivative/default_derivative_tag.hpp>
 
 #endif

@@ -12,17 +12,17 @@
 
 */
 
-#ifndef __LIBV_LMA_OPTIMISATION2_CONTAINER_BLAZE_HPP__
-#define __LIBV_LMA_OPTIMISATION2_CONTAINER_BLAZE_HPP__
+#ifndef __LMA_OPTIMISATION2_CONTAINER_BLAZE_HPP__
+#define __LMA_OPTIMISATION2_CONTAINER_BLAZE_HPP__
 
 #include "tag.hpp"
 #include <blaze/Blaze.h>
-#include <libv/lma/ttt/traits/naming.hpp>
-#include <libv/lma/ttt/traits/wrap.hpp>
-#include <libv/lma/string/string_utiliy.hpp>
+#include <lma/ttt/traits/naming.hpp>
+#include <lma/ttt/traits/wrap.hpp>
+#include <lma/string/string_utiliy.hpp>
 #include <boost/fusion/include/pair.hpp>
 #include "container.hpp"
-#include <libv/lma/ttt/traits/unroll1.hpp>
+#include <lma/ttt/traits/unroll1.hpp>
 #include <boost/mpl/if.hpp>
 
 namespace std

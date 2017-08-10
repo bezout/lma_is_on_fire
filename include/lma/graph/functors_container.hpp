@@ -6,8 +6,8 @@
 #include <boost/fusion/include/as_vector.hpp>
 #include <boost/fusion/include/mpl.hpp>
 #include <boost/fusion/include/for_each.hpp>
-#include <libv/lma/ttt/traits/functor_trait.hpp>
-#include <libv/lma/ttt/traits/wrap.hpp>
+#include <lma/ttt/traits/functor_trait.hpp>
+#include <lma/ttt/traits/wrap.hpp>
 
 #include <vector>
 #include <Eigen/Core>

@@ -22,9 +22,9 @@ namespace lma
   // bool use_omp() { return use_omp_; }
   // void enable_omp() { use_omp_ = true; }
   // void disable_omp() { use_omp_ = false; }
-  // LIBV_LMA_EXPORT bool use_omp();
-  // LIBV_LMA_EXPORT void enable_omp();
-  // LIBV_LMA_EXPORT void disable_omp();
+  // LMA_EXPORT bool use_omp();
+  // LMA_EXPORT void enable_omp();
+  // LMA_EXPORT void disable_omp();
 }
 
 #endif
